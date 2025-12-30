@@ -14,7 +14,7 @@ from typing import Dict, Any
 # =============================================================================
 
 # FastAPI backend URL
-API_BASE_URL = "http://localhost:10000"
+API_BASE_URL = "https://ml-decision-tree-app-1.onrender.com"
 PREDICT_ENDPOINT = f"{API_BASE_URL}/predict"
 HEALTH_ENDPOINT = f"{API_BASE_URL}/health"
 
