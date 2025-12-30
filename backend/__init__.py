@@ -1,1 +1,3 @@
-# Decision Tree Backend
+"""
+Titanic Survival Prediction API Backend
+"""
